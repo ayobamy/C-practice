@@ -1,1 +1,1 @@
-# C - Variables, If, els, while tasks solutions
+# C - Variables, If, else, while tasks solutionos
